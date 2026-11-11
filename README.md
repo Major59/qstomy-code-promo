@@ -29,6 +29,6 @@ Un chatbot IA français pour les boutiques Shopify. Il conseille les visiteurs, 
 
 **Qstomy marche sur WooCommerce ?** Non, Shopify uniquement pour l'instant.
 
-**Ça vaut le coup ?** Mon avis complet, après un test sur ma propre boutique : https://medium.com/@valentinfleury2605/avis-qstomy-2026-mon-test-sur-ma-boutique-shopify-code-promo-valentin30-30-e8c62c2b4c5f
+**Ça vaut le coup ?** Mon avis complet, après un test sur ma propre boutique : https://medium.com/@valrojam/avis-qstomy-2026-mon-test-sur-ma-boutique-shopify-code-promo-valentin30-30-e8c62c2b4c5f
 
 👉 [Tester Qstomy avec -30 %](https://apps.shopify.com/qstomy?locale=fr)
